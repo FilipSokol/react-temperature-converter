@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-temperature-converter/static/css/main.ccc409d4.chunk.css",
+    "main.js": "/react-temperature-converter/static/js/main.9ea99e5e.chunk.js",
+    "main.js.map": "/react-temperature-converter/static/js/main.9ea99e5e.chunk.js.map",
+    "runtime-main.js": "/react-temperature-converter/static/js/runtime-main.1175a59c.js",
+    "runtime-main.js.map": "/react-temperature-converter/static/js/runtime-main.1175a59c.js.map",
+    "static/js/2.1f12cbe4.chunk.js": "/react-temperature-converter/static/js/2.1f12cbe4.chunk.js",
+    "static/js/2.1f12cbe4.chunk.js.map": "/react-temperature-converter/static/js/2.1f12cbe4.chunk.js.map",
+    "static/js/3.99275a39.chunk.js": "/react-temperature-converter/static/js/3.99275a39.chunk.js",
+    "static/js/3.99275a39.chunk.js.map": "/react-temperature-converter/static/js/3.99275a39.chunk.js.map",
+    "index.html": "/react-temperature-converter/index.html",
+    "static/css/main.ccc409d4.chunk.css.map": "/react-temperature-converter/static/css/main.ccc409d4.chunk.css.map",
+    "static/js/2.1f12cbe4.chunk.js.LICENSE.txt": "/react-temperature-converter/static/js/2.1f12cbe4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1175a59c.js",
+    "static/js/2.1f12cbe4.chunk.js",
+    "static/css/main.ccc409d4.chunk.css",
+    "static/js/main.9ea99e5e.chunk.js"
+  ]
+}
