@@ -12,6 +12,7 @@ const TemperatureField = ({ temperature, scale, onTemperatureChange }) => {
 };
 
 const convertTemperature = (temperature, targetUnit) => {
+  const dupa = 1;
   if (temperature === "") {
     return (temperature = "");
   }
